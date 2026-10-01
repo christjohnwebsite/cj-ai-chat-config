@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "responses": [
     {
       "id": "wildfire_agentlink",
@@ -60,7 +60,7 @@
 "back up link wildfire",
 "back up link wildfire gaming"
       ],
-     "reply": "ito po ang back up link sa wildfire gaming\n\nhttp://wfg9205.xyz\n\nhttp://wfg6643.xyz\n\nhttps://www.1392361.com\n\nhttp://wfg1568.xyz",
+     "reply": "ito po ang back up link sa wildfire gaming:\n\nhttp://wfg9205.xyz\n\nhttp://wfg6643.xyz\n\nhttps://www.1392361.com\n\nhttp://wfg1568.xyz",
       "link_behavior": "auto",
       "copy": true,
       "copy_mode": "links",
