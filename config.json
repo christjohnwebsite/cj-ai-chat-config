@@ -1,12 +1,39 @@
 {
-  "version": 1,
+  "version": 2,
   "responses": [
     {
+      "id": "test_link",
+      "enabled": true,
       "keywords": [
-        "test agent",
-        "agent test"
+        "pahinge agent link ng wildfire gaming",
+						"pahinge agent link ng wildfire gaming ni boss cj",
+						"pahinge agent link ng wildfire gaming ni upline cj",
+						"pahinge agent link ng wildfire gaming ni christ john",
+						"penge agent link ng wildfire gaming",
+						"penge agent link ng wildfire gaming ni boss cj",
+						"penge agent link ng wildfire gaming ni upline cj",
+						"penge agent link ng wildfire gaming christ john",
+						"agent link sa wildfire gaming",
+						"agent wildfire gaming",
+						"wildfire play agent",
+						"pahinge agent link ng wildfire",
+						"pahinge agent link ng wildfire ni boss cj",
+						"pahinge agent link ng wildfire ni upline cj",
+						"pahinge agent link ng wildfire ni christ john",
+						"penge agent link ng wildfire",
+						"penge agent link ng wildfire ni boss cj",
+						"penge agent link ng wildfire ni upline cj",
+						"penge agent link ng wildfire christ john",
+						"agent link sa wildfire",
+						"agent wildfire",
+						"agent link wildfire",
+						"wildfire agent"
       ],
-      "reply": "TEST ONLINE CONFIG — gumagana ang online response!"
+      "reply": "ito po ang agent link sa wildfire gaming:\nhttps://cenge.1392361.com/register.html",
+      "link_behavior": "auto",
+      "copy": true,
+      "copy_mode": "links",
+      "open_phone": false
     }
   ]
 }
