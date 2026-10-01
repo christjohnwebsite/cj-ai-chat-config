@@ -1,1 +1,12 @@
-
+{
+  "version": 1,
+  "responses": [
+    {
+      "keywords": [
+        "test agent",
+        "agent test"
+      ],
+      "reply": "TEST ONLINE CONFIG — gumagana ang online response!"
+    }
+  ]
+}
