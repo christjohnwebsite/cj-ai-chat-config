@@ -1,8 +1,8 @@
 {
-  "version": 3,
+  "version": 4,
   "responses": [
     {
-      "id": "test_link",
+      "id": "wildfire_agentlink",
       "enabled": true,
       "keywords": [
         "pahinge agent link ng wildfire gaming",
@@ -30,6 +30,37 @@
 						"wildfire agent"
       ],
       "reply": "ito po ang agent link sa wildfire gaming:\nhttps://cenge.1392361.com/register.html",
+      "link_behavior": "auto",
+      "copy": true,
+      "copy_mode": "links",
+      "open_phone": false
+    },
+{
+      "id": "wildfiregaming_backuplink",
+      "enabled": true,
+      "keywords": [
+        "pahinge back up link ng wildfire gaming",
+"pahinge back up link sa wildfire gaming",
+"pahinge back up link ni wildfire gaming",
+"penge back up link ng wildfire gaming",
+"penge back up link sa wildfire gaming",
+"penge back up link ni wildfire gaming",
+"back up link ng wildfire gaming",
+"back up link sa wildfire gaming",
+"back up link ni wildfire gaming",
+"pahinge back up link ng wildfire",
+"pahinge back up link sa wildfire",
+"pahinge back up link ni wildfire",
+"penge back up link ng wildfire",
+"penge back up link sa wildfire",
+"penge back up link ni wildfire",
+"back up link ng wildfire",
+"back up link sa wildfire",
+"back up link ni wildfire",
+"back up link wildfire",
+"back up link wildfire gaming"
+      ],
+     "reply": "ito po ang back up link sa wildfire gaming\n\nhttp://wfg9205.xyz\n\nhttp://wfg6643.xyz\n\nhttps://www.1392361.com\n\nhttp://wfg1568.xyz",
       "link_behavior": "auto",
       "copy": true,
       "copy_mode": "links",
