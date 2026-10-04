@@ -1,9 +1,13 @@
 {
-  "version": 9,
+  "config_version": "V11",
   "responses": [
     {
-      "keywords": ["hello", "hi"],
-      "reply": "Hello! Ako si CJ AI."
+      "keyword": "hello oy cj",
+      "reply": "hi weho haha."
+    },
+    {
+      "keyword": "kumusta cj",
+      "reply": "Mabuti naman pre! 👋"
     }
   ]
 }
